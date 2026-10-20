@@ -1,13 +1,6 @@
 # Programacion_Unidad-5_Reto
 José Miguel Vásquez - Reto 5
 
-
-Ah, entiendo. Quieres ver el texto renderizado (con los títulos grandes, las negritas resaltadas y las listas) tal cual se verá en GitHub, en lugar de estar dentro de un cuadro de código.
-
-Aquí tienes el texto ya formateado en Markdown. Para usarlo, simplemente selecciona todo el texto que ves a continuación, cópialo y pégalo en tu archivo README.md (asegúrate de que el archivo tenga la extensión .md):
-
----
-
 Explorador CLI para el Análisis y Visualización de Archivos Reales
 
 Descripción del Proyecto
