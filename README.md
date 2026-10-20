@@ -1,5 +1,5 @@
 # Programacion_Unidad-5_Reto
-José Miguel Vásquez - Reto 5
+José Miguel Vásquez y Isabela Montaño - Reto 5
 
 Explorador CLI para el Análisis y Visualización de Archivos Reales
 
