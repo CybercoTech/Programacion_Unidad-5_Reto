@@ -1,0 +1,15 @@
+2023-10-25 08:00:01 INFO [User: admin] - Login successful from IP 192.168.1.10
+2023-10-25 08:02:15 INFO [User: guest] - Accessed /index.html - 200 OK
+2023-10-25 08:05:30 ERROR [System] - Database connection failed, retrying...
+2023-10-25 08:10:00 INFO [User: admin] - Uploaded file report.pdf
+2023-10-25 08:15:45 ERROR [Web] - Page not found - 404 Not Found on /contacto
+2023-10-25 08:20:10 INFO [User: user1] - Accessed /products - 200 OK
+2023-10-25 08:25:00 ERROR [Auth] - Invalid password attempt for user: root
+2023-10-25 08:30:00 INFO [System] - Backup process started
+2023-10-25 08:35:22 ERROR [Web] - Page not found - 404 Not Found on /blog
+2023-10-25 08:40:00 INFO [System] - Backup process completed successfully
+2023-10-25 08:45:00 INFO [User: admin] - Logout successful
+2023-10-25 08:50:15 ERROR [Web] - Page not found - 404 Not Found on /admin
+2023-10-25 08:55:00 ERROR [System] - Database connection timeout
+2023-10-25 09:00:00 INFO [System] - Server restarted
+2023-10-25 09:05:00 INFO [User: guest] - Accessed /index.html - 200 OK
